@@ -1,0 +1,54 @@
+
+
+-----------------------------------------
+05:17:24.707 : Starting log.
+05:17:24.707 INFO : Cataclysm DDA version d6ec466
+05:17:24.708 INFO : [main] C locale set to en_US.UTF-8
+05:17:24.708 INFO : [main] C++ locale set to en_US.UTF-8
+05:17:24.708 INFO : SDL version used during compile is 2.0.8
+05:17:24.708 INFO : SDL version used during linking and in runtime is 2.0.20
+05:17:25.034 INFO : Number of render drivers on your system: 3
+05:17:25.034 INFO : Render driver: 0/opengl
+05:17:25.034 INFO : Render driver: 1/opengles2
+05:17:25.034 INFO : Render driver: 2/software
+05:17:25.042 INFO : [options] C locale set to en_US.UTF-8
+05:17:25.042 INFO : [options] C++ locale set to en_US.UTF-8
+05:17:25.042 INFO : Setting language to: 'en'
+05:17:25.042 INFO : [i18n] Scanning core translations from lang/mo/
+05:17:25.042 INFO : [i18n] Scanning mod translations from ./mods/
+05:17:25.042 WARNING : opendir [./mods/] failed with "No such file or directory".
+05:17:25.362 INFO : Active renderer: 2/software
+05:17:25.497 ERROR SDL : src/sdl_wrappers.cpp:26: SDL_GameControllerOpen failed: Couldn't find mapping for device (0)
+05:17:25.502 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+05:17:25.603 INFO : Setting language to: 'en'
+05:17:25.680 WARNING : opendir [./mods] failed with "No such file or directory".
+05:17:36.879 : Log shutdown.
+-----------------------------------------
+
+
+
+-----------------------------------------
+05:30:29.652 : Starting log.
+05:30:29.652 INFO : Cataclysm DDA version d6ec466
+05:30:29.653 INFO : [main] C locale set to en_US.UTF-8
+05:30:29.653 INFO : [main] C++ locale set to en_US.UTF-8
+05:30:29.653 INFO : SDL version used during compile is 2.0.8
+05:30:29.653 INFO : SDL version used during linking and in runtime is 2.0.20
+05:30:29.864 INFO : Number of render drivers on your system: 3
+05:30:29.864 INFO : Render driver: 0/opengl
+05:30:29.864 INFO : Render driver: 1/opengles2
+05:30:29.864 INFO : Render driver: 2/software
+05:30:29.867 INFO : [options] C locale set to en_US.UTF-8
+05:30:29.867 INFO : [options] C++ locale set to en_US.UTF-8
+05:30:29.867 INFO : Setting language to: 'en'
+05:30:29.867 INFO : [i18n] Scanning core translations from lang/mo/
+05:30:29.867 INFO : [i18n] Scanning mod translations from ./mods/
+05:30:29.867 WARNING : opendir [./mods/] failed with "No such file or directory".
+05:30:30.008 INFO : Active renderer: 2/software
+05:30:30.117 ERROR SDL : src/sdl_wrappers.cpp:26: SDL_GameControllerOpen failed: Couldn't find mapping for device (0)
+05:30:30.120 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+05:30:30.192 INFO : Setting language to: 'en'
+05:30:30.267 WARNING : opendir [./mods] failed with "No such file or directory".
+05:30:52.643 : Log shutdown.
+-----------------------------------------
+

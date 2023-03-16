@@ -1,0 +1,4 @@
+build type: linux-tiles-x64
+build number: 2023-03-01-0054
+commit sha: d6ec466140839dd70c1a43671eb4a08b007695c2
+commit url: https://github.com/CleverRaven/Cataclysm-DDA/commit/d6ec466140839dd70c1a43671eb4a08b007695c2
