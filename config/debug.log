@@ -52,3 +52,62 @@
 05:30:52.643 : Log shutdown.
 -----------------------------------------
 
+
+
+-----------------------------------------
+05:40:26.192 : Starting log.
+05:40:26.192 INFO : Cataclysm DDA version d6ec466
+05:40:26.193 INFO : [main] C locale set to en_US.UTF-8
+05:40:26.193 INFO : [main] C++ locale set to en_US.UTF-8
+05:40:26.193 INFO : SDL version used during compile is 2.0.8
+05:40:26.193 INFO : SDL version used during linking and in runtime is 2.0.20
+05:40:26.438 INFO : Number of render drivers on your system: 3
+05:40:26.438 INFO : Render driver: 0/opengl
+05:40:26.438 INFO : Render driver: 1/opengles2
+05:40:26.438 INFO : Render driver: 2/software
+05:40:26.441 INFO : [options] C locale set to en_US.UTF-8
+05:40:26.441 INFO : [options] C++ locale set to en_US.UTF-8
+05:40:26.441 INFO : Setting language to: 'en'
+05:40:26.441 INFO : [i18n] Scanning core translations from lang/mo/
+05:40:26.442 INFO : [i18n] Scanning mod translations from ./mods/
+05:40:26.442 WARNING : opendir [./mods/] failed with "No such file or directory".
+05:40:26.621 INFO : Active renderer: 2/software
+05:40:26.750 ERROR SDL : src/sdl_wrappers.cpp:26: SDL_GameControllerOpen failed: Couldn't find mapping for device (0)
+05:40:26.753 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+05:40:26.772 INFO : Setting language to: 'en'
+05:40:26.833 WARNING : opendir [./mods] failed with "No such file or directory".
+05:40:38.473 : Log shutdown.
+-----------------------------------------
+
+
+
+-----------------------------------------
+05:42:35.962 : Starting log.
+05:42:35.962 INFO : Cataclysm DDA version d6ec466
+05:42:35.962 INFO : [main] C locale set to en_US.UTF-8
+05:42:35.962 INFO : [main] C++ locale set to en_US.UTF-8
+05:42:35.962 INFO : SDL version used during compile is 2.0.8
+05:42:35.962 INFO : SDL version used during linking and in runtime is 2.0.20
+05:42:36.184 INFO : Number of render drivers on your system: 3
+05:42:36.184 INFO : Render driver: 0/opengl
+05:42:36.184 INFO : Render driver: 1/opengles2
+05:42:36.184 INFO : Render driver: 2/software
+05:42:36.187 INFO : [options] C locale set to en_US.UTF-8
+05:42:36.187 INFO : [options] C++ locale set to en_US.UTF-8
+05:42:36.187 INFO : Setting language to: 'en'
+05:42:36.187 INFO : [i18n] Scanning core translations from lang/mo/
+05:42:36.187 INFO : [i18n] Scanning mod translations from ./mods/
+05:42:36.187 WARNING : opendir [./mods/] failed with "No such file or directory".
+05:42:36.347 INFO : Active renderer: 2/software
+05:42:36.465 ERROR SDL : src/sdl_wrappers.cpp:26: SDL_GameControllerOpen failed: Couldn't find mapping for device (0)
+05:42:36.470 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+05:42:36.516 INFO : Setting language to: 'en'
+05:42:36.579 WARNING : opendir [./mods] failed with "No such file or directory".
+05:42:48.293 WARNING : opendir [./save/Feather Falls/mods] failed with "No such file or directory".
+05:42:49.769 INFO : src/mod_tracker.h:68: Tried check if 'FakeSpecial_s_gas' had a duplicate, but type 'overmap_special' does not track object sources
+05:43:11.488 INFO : Loaded tileset: UltimateCataclysm
+05:43:12.101 INFO : Loaded tileset: UltimateCataclysm
+05:43:22.583 WARNING : opendir [./memorial] failed with "No such file or directory".
+05:47:13.277 : Log shutdown.
+-----------------------------------------
+
